@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m Nandha!<br><br>⚙️ Good in DevOps building and maintaining CI/CD pipelines.  <br>🔧 Comfortable with automation, scripting, and monitoring system performance.  <br>📦 Knowledge of version control, build tools, and release management.  <br>🛠️ Focused on improving reliability, security, and deployment speed.  <br>🌱 Continuously learning modern DevOps practices and cloud-native technologies.  <br>🤝 Open to collaborating on DevOps, cloud, and automation-driven projects.  <br>⚡ I enjoy simplifying complex systems and turning them into smooth pipelines.
+#  About Me:
+Hi, I’m Nandha!<br><br>⚙️ Good in DevOps building and maintaining CI/CD pipelines.  <br>🔧 Comfortable with automation, scripting, and monitoring system performance.  <br>📦 Knowledge of version control, build tools, and release management.  <br>🛠️ Focused on improving reliability, security, and deployment speed.  <br>🌱 Continuously learning modern DevOps practices and cloud-native technologies.  <br>🤝 Open to collaborating on DevOps, cloud, and automation-driven projects.  <br>⚡ I enjoy simplifying complex systems and turning them into smooth pipelines.
 
 
 ## 🌐 Socials:
